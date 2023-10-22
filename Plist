@@ -1,31 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd …">
 <plist version="1.0">
-    <dict>
-        <key>items</key>
-        <array>
-            <dict>
-                <key>assets</key>
-                <array>
-                    <dict>
-                        <key>kind</key>
-                        <string>software-package</string>
-                        <key>url</key>
-                        <string>https://download2287.mediafire.com/ct6qaqe301kgxQAEUmE_ebwucWJHcHHD9ngVznUDiaFvSS53WIntS1Szz0t698VF6h-uKEM0jJCULfeO1K3cKMHksO51trv5OiauSr66o97W602ZbGMtsaadtJZclwQyCCHzVpwmv49BE1lHE0RSu9orEYhoeRaJUEcCjyuYMYzwyA/atfuu5f1c89lz5h/Roblox+-+IOS+LAND_2.594.524_1697823503.ipa</string>
-                    </dict>
-                </array>
-                <key>metadata</key>
-                <dict>
-                    <key>bundle-identifier</key>
-                    <string>com.IOSLand.Autocliker</string>
-                    <key>bundle-version</key>
-                    <string>1.0</string>
-                    <key>kind</key>
-                    <string>software</string>
-                    <key>title</key>
-                    <string>Roblox - IOS LAND Autocliker</string>
-                </dict>
-            </dict>
-        </array>
-    </dict>
-</plist>
+<dict>
+<key>items</key>
+<array>
+<dict>
+<key>assets</key>
+<array>
+<dict>
+<key>kind</key>
+<string>software-package</string>
+<key>url</key>
+<string>https://github.com/IhateFortnitecuziambad/Roblox-IOS-Auto-Clicker/releases/download/roblox/Roblox.-.IOS.LAND_2.594.524_1697823503.ipa</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>display-image</string>
+<key>url</key>
+<string>https://cdn.discordapp.com/attachments/1144389300230832138/1165660999899168892/58D21F4D-43F5-4E2C-8DAE-27D5A4F46614.jpg?ex=6547a967&is=65353467&hm=3e7604b374e51420a2af63052a98e3ee184e762a00d1fa56246cf5bb40ccc4cd&</string>
+</dict>
+<dict>
+<key>kind</key>
+<string>full-size-image</string>
+<key>url</key>
+<string>https://cdn.discordapp.com/attachments/1144389300230832138/1165660999899168892/58D21F4D-43F5-4E2C-8DAE-27D5A4F46614.jpg?ex=6547a967&is=65353467&hm=3e7604b374e51420a2af63052a98e3ee184e762a00d1fa56246cf5bb40ccc4cd&</string>
+</dict>
+</array>
+<key>metadata</key>
+<dict>
+<key>bundle-identifier</key>
+<string>Roblox</string>
+<key>bundle-version</key>
+<string>1</string>
+<key>kind</key>
+<string>software</string>
+<key>title</key>
+<string>Roblox IOS LAND - Auto clicker</string>
+</dict>
+</dict>
+</array>
+</dict>
+</plist> 
